@@ -54,7 +54,7 @@ Try it out on Streamlit Community Cloud: [Lead Generator AI App](https://lead-ge
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lead-generator.git
+git clone https://github.com/YogeshRaje/lead-generator-ai.git
 cd lead-generator
 
 # Install dependencies
